@@ -37,7 +37,7 @@
         -->
         <div class="container">
           <h2>Alert</h2>
-          <div class="well">Example</div>
+          <div class="well">Example Input</div>
         </div>
         <div class="container">
   <h2>Example</h2>
